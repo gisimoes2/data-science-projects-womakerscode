@@ -6,7 +6,7 @@ Este repositório contém uma coleção de projetos de Data Science desenvolvido
 
 Cada projeto está organizado em pastas separadas, com uma descrição detalhada de cada um e os arquivos de código associados. Abaixo está um resumo dos projetos incluídos no repositório:
 
-Visão Geral dos Projetos
+## Visão Geral dos Projetos
 1. **Visualização de Dados**
 Descrição: Este projeto aborda a criação de gráficos para explorar dados e identificar padrões visuais. Foi utilizado Python com bibliotecas populares de visualização.
 Ferramentas: Python, Matplotlib, Seaborn
